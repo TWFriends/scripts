@@ -1,1 +1,1 @@
-HiroFriends.latestVersion = 0.29;
+HiroFriends.latestVersion = 0.30;
